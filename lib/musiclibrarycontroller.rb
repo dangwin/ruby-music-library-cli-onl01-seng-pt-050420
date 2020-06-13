@@ -50,6 +50,8 @@ end
     end
   end 
 
+  def list_artists
+    
 
 
 
