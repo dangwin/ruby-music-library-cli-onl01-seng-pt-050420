@@ -39,8 +39,8 @@ class MusicLibraryController
         self.play_song
       else
         "Type in a valid request please"
+   end 
   end 
-end 
   
 end 
 end 
